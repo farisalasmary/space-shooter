@@ -1,6 +1,6 @@
 # Space Shooter
 
-This is a simple game I developed as a project for the second Java course (ICS 201) in King Fahd University of Petroleum and Minerals (KFUPM).
+This is a simple game I developed as a project for the second Java course (ICS 201) in computer science King Fahd University of Petroleum and Minerals (KFUPM).
 
 If you want to do further improvement to this project, it would be easier to import the project using Eclipse IDE.
 
