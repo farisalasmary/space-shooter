@@ -14,3 +14,6 @@ java -jar spaceshooter.jar
 
 **Note:** You should have Java Virtual Machine on your computer.
 
+# Demo
+
+![](demo.gif)
